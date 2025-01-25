@@ -1,3 +1,5 @@
+
+# homework-repo
 # run python 3.12.8
 docker run -it python:3.12.8
 
@@ -13,6 +15,7 @@ wget https://github.com/DataTalksClub/nyc-tlc-data/releases/download/misc/taxi_z
 
 
 # sql
+``` sql
 -- no 3
 -- 3.1
 SELECT 
@@ -121,6 +124,7 @@ GROUP BY
 ORDER BY 
     largest_tip DESC
 LIMIT 1;
+```
 
 # no 7
 ## terraform download
@@ -133,8 +137,3 @@ terraform init
 terraform apply -auto-approve
 
 terraform destroy -auto-approve
-
-# de-zoomcamp-2025
-# de-zoomcamp-2025
-# homework-repo
-# my-homework
